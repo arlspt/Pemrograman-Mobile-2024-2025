@@ -3,7 +3,7 @@
 ### **Praktikum 1: Eksperimen Tipe Data List**
 
 ##### **Langkah 1 dan 2**
-![](images/01.png)
+![](images/01.png) <br>
 **Pejelasan:** Program ini berjalan normal dan tidak ada kesalahan karena semua assertions berhasil. Assertions digunakan untuk memastikan bahwa kondisi yang diuji benar selama runtime (saat debugging).
 
 ##### **Langkah 3**
